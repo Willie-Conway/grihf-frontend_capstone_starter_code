@@ -124,7 +124,7 @@ grihf-frontend\_capstone\_starter\_code/
 ├── README.md
 ├── .gitignore
 
-````
+```
 
 ---
 
@@ -134,7 +134,7 @@ grihf-frontend\_capstone\_starter\_code/
    ```bash
    git clone https://github.com/YOUR_USERNAME/grihf-frontend_capstone_starter_code.git
    cd grihf-frontend_capstone_starter_code
-````
+  ```
 
 2. **Open the HTML file** in a browser or run using Live Server.
 
