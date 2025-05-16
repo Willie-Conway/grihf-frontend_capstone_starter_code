@@ -1,6 +1,3 @@
-Here is the complete `README.md` in **Markdown format** for your StayHealthy Medical Appointment Booking Website project, fully aligned with the project scenario and Figma lab exercises:
-
-```markdown
 # 🏥 StayHealthy - Medical Appointment Booking Website
 
 ## 📖 Overview
